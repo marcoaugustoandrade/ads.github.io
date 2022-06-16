@@ -48,3 +48,13 @@ Matriz curricular do CST em ADS - [RESOLUÇÃO Nº 16/REIT - CEPEX/IFRO, DE 07 D
 * Tópicos Especiais II (80 horas)
 * Frameworks (80 horas)
 * TCC II (80 horas)
+
+## Disciplinas optativas
+* Libras
+* Relações étnico-raciais e Direitos Humanos
+* Mineração de Dados
+* Interface homem-computador
+* Fundamentos de Computação Gráfica
+* Introdução ao Desenvolvimento de Jogos
+* Sistemas de Apoio à Decisão
+* Inteligência Artificial
