@@ -1,8 +1,3 @@
----
-layout: page
-title: CST em ADS Vilhena - TCC (Trabalho de Conclusão de Curso)
-permalink: /tcc
----
 O TCC (Trabalho de Conclusão de Curso) segue a regulamentação da [RESOLUÇÃO Nº 11, DE 09 DE FEVEREIRO DE 2017](files/regulamento_de_TCC_IFRO.pdf) e o [Manual de TCC do CST em ADS](files/Manual_TCC_CST_ADS.pdf).
 
 É realizado em 2 componentes curriculares:
