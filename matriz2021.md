@@ -1,8 +1,3 @@
----
-layout: page
-title: CST em ADS Vilhena - Matriz 2021
-permalink: /matriz2021
----
 Matriz curricular do CST em ADS - [RESOLUÇÃO Nº 3/REIT - CEPEX/IFRO, DE 01 DE JUNHO DE 2021](files/PPC_CST_ADS_2021.pdf)
 
 ## 1º semestre
