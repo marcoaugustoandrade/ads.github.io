@@ -1,3 +1,5 @@
+# Atividades complementares
+
 A carga horária das Atividades Curriculares são regidas pela [RESOLUÇÃO Nº 87/CONSUP/IFRO/2016, DE 26 DE DEZEMBRO DE 2016](files/ROA.pdf).
 
 Os estudantes devem computar carga horária de 100 horas, considerando o máximo de 40 horas em cada eixo temático:
