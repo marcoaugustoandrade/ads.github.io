@@ -1,8 +1,3 @@
----
-layout: page
-title: CST em ADS Vilhena - Estágio
-permalink: /estagio
----
 O estágio é regido pela [RESOLUÇÃO Nº 79/CONSUP/IFRO/2016, DE 27 DE DEZEMBRO DE 2016](files/regulamento_de_estagio_IFRO.pdf).
 
 O estágio pode ser realizado a partir do cumprimento de 50% da carga horária do curso. 
