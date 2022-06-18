@@ -1,5 +1,3 @@
-# CST em ADS (Análise em Desenvolvimento de Sistemas) IFRO Campus Vilhena
-
 ## Matrizes curriculares
 * [Matriz 2016](matriz2016.html)
 * [Matriz 2018](matriz2018.html)
